@@ -14,6 +14,20 @@
     max-width: 450px;
 }
 
+.container-conteudo-contato{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #28aed6;
+    border-radius: 10px;
+    max-width: 450px;
+}
+
+.container-produtos{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #1e1f20;
+    border-radius: 10px;
+}
 
 .container-contato{
     padding: 8px;
@@ -49,4 +63,14 @@ footer{
 .btn-controle{
     width: 49%;
 
+}
+
+img{
+    margin: 10px;
+    width: 80%;
+}
+
+.cord{
+    margin: 10px;
+    text-align: center;
 }
